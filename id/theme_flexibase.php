@@ -26,6 +26,6 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pagescontenttabshome'] = 'Beranda';
-$string['pagescontenttabsprofile'] = 'Profil';
+$string['pagescontenttabsprofile'] = 'Profil saya';
 $string['pagescontenttabssetting'] = 'Setelan';
 $string['pagesettingsalertsdesc2'] = 'Warna';
