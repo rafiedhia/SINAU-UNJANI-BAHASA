@@ -27,5 +27,5 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['news_items:addinstance'] = 'Tambahkan blok pengumuman terbaru';
 $string['news_items:myaddinstance'] = 'Tambahkan blok pengumuman terbaru ke Dasbor';
-$string['pluginname'] = 'Pengumuman terbaru';
+$string['pluginname'] = 'Pengumuman Terbaru';
 $string['privacy:metadata'] = 'Blok pengumuman terbaru hanya menampilkan data yang disimpan di forum dan tidak menyimpan data itu sendiri.';
