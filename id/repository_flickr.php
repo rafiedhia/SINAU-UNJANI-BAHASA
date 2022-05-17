@@ -30,7 +30,7 @@ $string['callbackurl'] = 'URL Callback';
 $string['callbackurltext'] = '<ol> <li>Kunjungi <a href="http://www.flickr.com/services/api/keys/">Kunci API Flickr</a> lagi.</li> <li>Pastikan Anda menyetel URL panggilan balik untuk kunci Flickr ini sebagai <strong>{$a}</strong></li></ol>';
 $string['callbackwarning'] = '<ol> <li>Dapatkan <a href="http://www.flickr.com/services/api/keys/">Kunci dan Rahasia API Flickr</a> dari Flickr untuk situs Moodle ini.</li > <li>Masukkan detail tersebut di sini, lalu klik Simpan, lalu Setelan untuk kembali ke halaman ini. Anda akan melihat bahwa Moodle telah membuat URL panggilan balik untuk Anda.</li> <li>Edit <a href="http://www.flickr.com/services/api/keys/">Flickr</a> Anda detail kunci lagi dan setel URL panggilan balik.</li></ol>';
 $string['configplugin'] = 'Konfigurasi Flickr';
-$string['emailaddress'] = 'Alamat surel';
+$string['emailaddress'] = 'Alamat Surel';
 $string['flickr:view'] = 'Lihat repositori Flickr';
 $string['invalidemail'] = 'Alamat surel tidak valid untuk flickr';
 $string['notitle'] = 'tanpa judul';

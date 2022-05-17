@@ -38,7 +38,7 @@ $string['callbackurl'] = 'URL Callback';
 $string['commercialuse'] = 'Saya ingin menggunakan gambar secara komersial';
 $string['configplugin'] = 'Konfigurasi publik Flickr';
 $string['creativecommonscommercial'] = 'Hanya iklan creative commons';
-$string['emailaddress'] = 'Alamat surel';
+$string['emailaddress'] = 'Alamat Surel';
 $string['flickr_public:view'] = 'Gunakan repositori publik Flickr di file picker';
 $string['fulltext'] = 'Teks lengkap';
 $string['information'] = '<div>Dapatkan <a href="http://www.flickr.com/services/api/keys/">Kunci API Flickr</a> untuk situs Moodle Anda. </div>';
