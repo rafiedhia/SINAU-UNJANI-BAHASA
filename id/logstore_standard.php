@@ -28,7 +28,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['buffersize'] = 'Ukuran penyangga tulis';
 $string['jsonformat'] = 'Format JSON';
 $string['jsonformat_desc'] = 'Gunakan format JSON standar sebagai ganti data serial PHP di ruas  basis data \'lainnya\'.';
-$string['pluginname'] = 'Log standar';
+$string['pluginname'] = 'Log Standar';
 $string['pluginname_desc'] = 'Pengaya log menyimpan entri log dalam tabel basis data Moodle.';
 $string['privacy:metadata:log'] = 'Kumpulan acara lampau';
 $string['privacy:metadata:log:anonymous'] = 'Apakah acara ditandai sebagai anonim';
