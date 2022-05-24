@@ -29,5 +29,5 @@ $string['mysessions'] = 'Sesi aktif saya';
 $string['navigationlink'] = 'Sesi peramban';
 $string['pluginname'] = 'Laporan sesi pengguna';
 $string['privacy:metadata'] = 'Pengaya Laporan sesi pengguna tidak menyimpan data pribadi apa pun.';
-$string['thissession'] = 'Sesi Sekarang';
+$string['thissession'] = 'Sesi Saat Ini';
 $string['usersessions:manageownsessions'] = 'Kelola sesi peramban sendiri';
