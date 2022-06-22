@@ -28,7 +28,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['addoutcome'] = 'Tambahkan capaian';
 $string['courseoutcomes'] = 'Capaian kursus';
 $string['coursespecoutcome'] = 'Capaian kursus';
-$string['eventgradereportviewed'] = 'Melihat laporan capaian kursus';
+$string['eventgradereportviewed'] = 'Laporan Mata Kuliah Pengguna yang Dilihat';
 $string['outcomes:view'] = 'Melihat laporan capaian';
 $string['pluginname'] = 'Laporan capaian';
 $string['privacy:metadata'] = 'Laporan capaian nilai hanya menampilkan data yang disimpan di lokasi lain.';
