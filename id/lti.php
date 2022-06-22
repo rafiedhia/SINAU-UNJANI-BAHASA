@@ -246,7 +246,7 @@ $string['miscellaneous'] = 'Lain-lain';
 $string['misconfiguredtools'] = 'Terdeteksi model alat yang salah dikonfigurasi';
 $string['missingparameterserror'] = 'Laman salah dikonfigurasi: "{$a}"';
 $string['module_class_type'] = 'Jenis modul Moodle';
-$string['modulename'] = 'Alat eksternal';
+$string['modulename'] = 'Alat Eksternal';
 $string['modulename_help'] = 'Modul aktivitas alat eksternal memungkinkan siswa untuk berinteraksi dengan sumber belajar dan aktivitas di situs web lain. Misalnya, alat eksternal dapat memberikan akses ke jenis aktivitas baru atau materi pembelajaran dari penerbit.
 
 Untuk membuat aktivitas fitur eksternal, diperlukan penyedia fitur yang mendukung LTI (Learning Tools Interoperability). Pengajar bisa membuat aktivitas alat eksternal atau menggunakan alat yang dikonfigurasi oleh administrator situs.
@@ -256,7 +256,7 @@ Aktivitas alat eksternal berbeda dari sumber daya URL dalam beberapa hal:
 * Alat eksternal sadar konteks, yaitu mereka memiliki akses ke informasi tentang pengguna yang meluncurkan alat, seperti institusi, kursus dan nama
 * Alat eksternal mendukung membaca, memperbarui, dan menghapus nilai terkait dengan instance aktivitas
 * Konfigurasi alat eksternal membuat hubungan kepercayaan antara situs Anda dan penyedia alat, sehingga memungkinkan komunikasi yang aman di antara keduanya';
-$string['modulenameplural'] = 'Alat eksternal';
+$string['modulenameplural'] = 'Alat Eksternal';
 $string['modulenamepluralformatted'] = 'Model LTI';
 $string['name'] = 'Nama';
 $string['never'] = 'Tidak pernah';
@@ -304,7 +304,7 @@ $string['password_admin_help'] = 'Rahasia bersama dapat dianggap sebagai kata sa
 $string['password_help'] = 'Untuk alat yang telah dikonfigurasi sebelumnya, tidak perlu memasukkan rahasia bersama di sini, karena rahasia bersama akan diberikan sebagai bagian dari proses konfigurasi. Bidang ini harus dimasukkan jika membuat tautan ke penyedia alat yang belum dikonfigurasi. Jika penyedia alat akan digunakan lebih dari sekali dalam kursus ini, menambahkan konfigurasi alat kursus adalah ide yang bagus. Rahasia bersama dapat dianggap sebagai kata sandi yang digunakan untuk mangautentikasi akses ke alat tersebut. Ini harus disediakan bersama dengan kunci konsumen dari penyedia alat. Alat yang tidak memerlukan komunikasi aman dari Moodle dan tidak menyediakan layanan tambahan (seperti pelaporan nilai) mungkin tidak membutuhkan rahasia bersama.';
 $string['pending'] = 'Ditangguhkan';
 $string['pluginadministration'] = 'Administrasi alat eksternal';
-$string['pluginname'] = 'Alat eksternal';
+$string['pluginname'] = 'Alat Eksternal';
 $string['preferheight'] = 'Tinggi yang diinginkan';
 $string['preferwidget'] = 'Pilih peluncuran widget';
 $string['preferwidth'] = 'Lebar yang diingikan';
