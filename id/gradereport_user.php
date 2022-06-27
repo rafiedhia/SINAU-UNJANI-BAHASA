@@ -28,7 +28,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['eventgradereportviewed'] = 'Melihat laporan nilai pengguna';
 $string['myself'] = 'Saya sendiri';
 $string['otheruser'] = 'Pengguna';
-$string['pluginname'] = 'Laporan pengguna';
+$string['pluginname'] = 'Laporan Pengguna';
 $string['privacy:metadata:preference:gradereport_user_view_user'] = 'Apakah akan melihat laporan sebagai pengguna saat ini atau pengguna lain dalam laporan buku nilai';
 $string['tablesummary'] = 'Tabel disusun sebagai daftar item yang dinilai termasuk kategori item yang dinilai. Ketika item berada dalam kategori mereka akan ditunjukkan seperti itu.';
 $string['user:view'] = 'Lihat laporan nilai Anda sendiri';
