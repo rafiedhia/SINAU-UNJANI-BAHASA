@@ -536,6 +536,6 @@ $string['view_recording_yui_rows'] = 'Baris';
 $string['view_recording_yui_show_all'] = 'Tampilkan semua';
 $string['view_room'] = 'Lihat ruangan';
 $string['view_section_title_presentation'] = 'Berkas presentasi';
-$string['view_section_title_recordings'] = 'Perekaman';
+$string['view_section_title_recordings'] = 'Rekaman';
 $string['view_warning_default_server'] = 'Server Moodle ini menggunakan server pengujian BigBlueButton yang telah dikonfigurasi sebelumnya secara bawaan. Itu harus diganti untuk produksi.';
 $string['waitformoderator'] = 'Menunggu moderator untuk bergabung.';
