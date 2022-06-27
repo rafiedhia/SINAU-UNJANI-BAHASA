@@ -74,5 +74,5 @@ $string['publishstate_help'] = 'Konteks catatan menentukan siapa yang dapat meli
 * Kursus - Catatan akan terlihat oleh pengajar dalam kursus ini
 * Situs - Catatan akan terlihat oleh pengajar di semua kursus';
 $string['site'] = 'Situs';
-$string['sitenotes'] = 'Catatan situs';
+$string['sitenotes'] = 'Catatan Situs';
 $string['unknown'] = 'tidak diketahui';
