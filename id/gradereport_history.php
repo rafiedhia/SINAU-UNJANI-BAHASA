@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['allgradeitems'] = 'Semua item nilai';
-$string['allgraders'] = 'Semua penilai';
+$string['allgraders'] = 'Semua Penilai';
 $string['datefrom'] = 'Mulai tanggal';
 $string['datetime'] = 'Tanggal dan waktu';
 $string['dateto'] = 'Sampai tanggal';
