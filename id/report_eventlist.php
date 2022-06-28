@@ -60,5 +60,5 @@ $string['relatedobservers'] = 'Pengaya pengamat acara ini';
 $string['since'] = 'Sejak';
 $string['teaching'] = 'Mengajar';
 $string['typedeclaration'] = 'Parameter acara lainya';
-$string['update'] = 'perbarui';
+$string['update'] = 'Perbarui';
 $string['yes'] = 'ya';
