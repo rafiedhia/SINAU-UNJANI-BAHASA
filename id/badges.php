@@ -511,7 +511,7 @@ $string['targeturl'] = 'URL';
 $string['targeturl_help'] = 'Tautan ke halaman yang menjelaskan kompetensi, keterampilan, atau standar. URL harus memiliki awalan http:// atau https://.';
 $string['testbackpack'] = 'Uji ransel \'{$a}\'';
 $string['testsettings'] = 'Setelan pengujian';
-$string['type'] = 'Tipe';
+$string['type'] = 'Jenis';
 $string['variablesubstitution'] = 'Substitusi variabel dalam pesan.';
 $string['variablesubstitution_help'] = 'Dalam pesan lencana, variabel-variabel tertentu dapat dimasukkan ke dalam subjek dan / atau badan pesan sehingga mereka akan diganti dengan nilai-nilai nyata ketika pesan dikirim. Variabel harus dimasukkan ke dalam teks persis seperti yang ditunjukkan di bawah ini. Variabel berikut dapat digunakan:
 

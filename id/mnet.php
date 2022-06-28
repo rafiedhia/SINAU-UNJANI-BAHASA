@@ -243,7 +243,7 @@ $string['trustedhostsexplain'] = '<p>Mekanisme host tepercaya memungkinkan mesin
 Hos lokal Anda:<br />127.0.0.1<br />Hos lokal Anda (dengan blok jaringan):<br />127.0.0.1/32<br />Hanya host dengan alamat IP 192.168.0.7:<br />192.168.0.7/32<br /> Setiap host dengan alamat IP antara 192.168.0.1 dan 192.168.0.255:<br />192.168.0.0/24<br />Host apa pun:<br />192.168.0.0/0<br />Jelas contoh terakhir adalah <strong>bukan</strong> konfigurasi yang disarankan.';
 $string['turnitoff'] = 'Matikan';
 $string['turniton'] = 'Nyalakan';
-$string['type'] = 'Tipe';
+$string['type'] = 'Jenis';
 $string['unknown'] = 'Tidak dikenal';
 $string['unknownerror'] = 'Terjadi kesalahan yang tidak diketahui selama negosiasi.';
 $string['usercannotchangepassword'] = 'Anda tidak dapat mengubah kata sandi Anda di sini karena Anda adalah pengguna jarak jauh.';

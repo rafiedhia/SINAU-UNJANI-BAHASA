@@ -135,7 +135,7 @@ $string['synchronizeno'] = 'Jangan sinkronkan';
 $string['synchronizeyes'] = 'Sinkronisasi';
 $string['synchronizeyesdisplay'] = 'Sinkronkan dan tampilkan nama kumpulan data bersama sebagai prefiks dari nama soal';
 $string['tolerance'] = 'Toleransi ±';
-$string['tolerancetype'] = 'Tipe';
+$string['tolerancetype'] = 'Jenis';
 $string['trueanswerinsidelimits'] = 'Jawaban yang benar : {$a->correct} di dalam batas nilai sebenarnya {$a->true}';
 $string['trueansweroutsidelimits'] = '<span class="error">GALAT Jawaban yang benar : {$a->correct} di luar batas nilai sebenarnya {$a->true}</span>';
 $string['uniform'] = 'Seragam';

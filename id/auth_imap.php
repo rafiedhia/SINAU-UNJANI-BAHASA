@@ -32,6 +32,6 @@ $string['auth_imaphost_key'] = 'Tuan rumah';
 $string['auth_imapnotinstalled'] = 'Tidak dapat menggunakan otentikasi IMAP. Modul PHP IMAP tidak diinstal.';
 $string['auth_imapport'] = 'Nomor port server IMAP. Biasanya dipakai 143 atau 993.';
 $string['auth_imaptype'] = 'Jenis server IMAP. Server IMAP dapat mempunyai berbagai jenis otentikasi dan negosiasi.';
-$string['auth_imaptype_key'] = 'Tipe';
+$string['auth_imaptype_key'] = 'Jenis';
 $string['pluginname'] = 'Gunakan server IMAP';
 $string['privacy:metadata'] = 'Plugin otentikasi server IMAP tidak menyimpan data pribadi apa pun.';

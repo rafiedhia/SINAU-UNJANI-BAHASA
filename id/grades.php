@@ -512,7 +512,7 @@ $string['modgraderescalegrades'] = 'Skala ulang nilai yang ada';
 $string['modgraderescalegrades_help'] = 'Apabila diatur sebagai \'Ya\', seluruh nilai yang ada akan diskala ulang, sehingga persentase nilai akan tetap sama.
 
 Contohnya, apabila opsi ini diatur sebagai \'Ya\', mengubah nilai maksimum sebuah item dari 10 menjadi 20 akan menyebabkan nilai 6/10 (60%) diskala ulang menjadi 12/20 (60%). Dengan opsi ini diatur sebagai \'Tidak\', nilai akan berubah dari 6/10 (60%) menjadi 6/20 (30%), membutuhkan penyesuaian manual untuk setiap item nilai untuk memastikan skor yang benar.';
-$string['modgradetype'] = 'Tipe';
+$string['modgradetype'] = 'Jenis';
 $string['modgradetypenone'] = 'Tidak ada';
 $string['modgradetypepoint'] = 'Poin';
 $string['modgradetypescale'] = 'Skala';

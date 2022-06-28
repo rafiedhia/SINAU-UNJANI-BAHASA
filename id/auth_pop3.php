@@ -31,6 +31,6 @@ $string['auth_pop3host'] = 'Alamat server POP3. Gunakan nomor IP, bukan nama DNS
 $string['auth_pop3mailbox_key'] = 'Kotak surat';
 $string['auth_pop3port'] = 'Port Server  (110 adalah yang terbaik)';
 $string['auth_pop3type'] = 'Jenis server. Jika server Anda menggunakan sertifikat keamanan, pilih pop3cert.';
-$string['auth_pop3type_key'] = 'Tipe';
+$string['auth_pop3type_key'] = 'Jenis';
 $string['pluginname'] = 'Server POP3';
 $string['privacy:metadata'] = 'Pengaya autentikasi server POP3 tidak menyimpan data pribadi apa pun.';
