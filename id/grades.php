@@ -513,7 +513,7 @@ $string['modgraderescalegrades_help'] = 'Apabila diatur sebagai \'Ya\', seluruh 
 
 Contohnya, apabila opsi ini diatur sebagai \'Ya\', mengubah nilai maksimum sebuah item dari 10 menjadi 20 akan menyebabkan nilai 6/10 (60%) diskala ulang menjadi 12/20 (60%). Dengan opsi ini diatur sebagai \'Tidak\', nilai akan berubah dari 6/10 (60%) menjadi 6/20 (30%), membutuhkan penyesuaian manual untuk setiap item nilai untuk memastikan skor yang benar.';
 $string['modgradetype'] = 'Jenis';
-$string['modgradetypenone'] = 'Tidak ada';
+$string['modgradetypenone'] = 'Tidak Ada';
 $string['modgradetypepoint'] = 'Poin';
 $string['modgradetypescale'] = 'Skala';
 $string['morethanmax'] = 'Nilai yang dimasukkan pada {$a->itemname} untuk {$a->username} lebih dari bilangan maksimal yang ditentukan';
@@ -803,7 +803,7 @@ $string['totalweight100'] = 'Total bobot sama dengan 100';
 $string['totalweightnot100'] = 'Total bobot tidak sama dengan 100';
 $string['turnfeedbackoff'] = 'Matikan umpan balik';
 $string['turnfeedbackon'] = 'Nyalakan umpan balik';
-$string['typenone'] = 'Tidak ada';
+$string['typenone'] = 'Tidak Ada';
 $string['typescale'] = 'Skala';
 $string['typescale_help'] = 'Setelan ini menentukan skala yang digunakan ketika menggunakan tipe nilai skala. Skala untuk item nilai berbasis aktivitas diatur pada halaman setelan aktivitas.';
 $string['typetext'] = 'Teks';
