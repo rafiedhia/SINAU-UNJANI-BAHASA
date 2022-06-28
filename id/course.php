@@ -64,7 +64,7 @@ $string['completion_setby:manual:done'] = '{$a->activityname} ditandai oleh {$a-
 $string['completion_setby:manual:markdone'] = '{$a->activityname}  ditandai dengan {$a->setby} sebagai belum selesai. Tekan untuk menandai sebagai selesai.';
 $string['completionrequirements'] = 'Persyaratan penyelesaian untuk {$a}';
 $string['coursealreadyfinished'] = 'Kursus telah selesai';
-$string['coursecontentnotification'] = 'Kirim pemberitahuan perubahan konten';
+$string['coursecontentnotification'] = 'Kirim notifikasi perubahan konten';
 $string['coursecontentnotification_help'] = 'Centang kotak untuk memberi tahu peserta kursus tentang aktivitas atau sumber daya baru atau yang diubah ini. Hanya pengguna yang dapat mengakses aktivitas atau sumber yang akan menerima notifikasi.';
 $string['coursecontentnotifnew'] = '{$a->coursename} konten baru';
 $string['coursecontentnotifnewbody'] = '<p>{$a->moduletypename} <a href="{$a->link}">{$a->modulename}</a> baru dalam kursus <a href="{$a->courselink}">{$a->coursename}</a>.</p><p><a href="{$a->notificationpreferenceslink}">Ubah preferensi notifikasi Anda</a></p>';
