@@ -25,4 +25,4 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['timeleft'] = 'Waktu tersisa';
+$string['timeleft'] = 'Waktu Tersisa';
