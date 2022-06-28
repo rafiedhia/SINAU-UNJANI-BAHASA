@@ -111,7 +111,7 @@ $string['groupmemberdesc'] = 'Peran standar untuk anggota grup';
 $string['groupmembers'] = 'Anggota-anggota grup';
 $string['groupmemberssee'] = 'Lihat anggota-anggota grup';
 $string['groupmembersselected'] = 'Anggota-anggota grup yang dipilih';
-$string['groupmode'] = 'Mode pengelompokan';
+$string['groupmode'] = 'Mode Grup';
 $string['groupmode_help'] = 'Setelan ini memiliki 3 opsi:
 
 * Tidak ada grup
