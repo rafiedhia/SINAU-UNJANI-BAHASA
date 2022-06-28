@@ -60,6 +60,6 @@ $string['rating'] = 'Penilaian';
 $string['ratinginvalid'] = 'Penilaian tidak sah';
 $string['ratings'] = 'Rating';
 $string['ratingtime'] = 'Jangan beri penilaian pada item pada kisaran tanggal berikut:';
-$string['rolewarning'] = 'Peranan-peranan yang diizinkan memberi penilaian';
+$string['rolewarning'] = 'Peran yang Diizinkan Memberi Rating';
 $string['rolewarning_help'] = 'Untuk mengirimkan peringkat, pengguna memerlukan kemampuan moodle/rating:rate dan kemampuan khusus modul apa pun. Pengguna yang diberi peran berikut harus dapat menilai item. Daftar peran dapat diubah melalui tautan izin di menu tindakan atau blok administrasi, tergantung pada temanya.';
 $string['scaleselectionrequired'] = 'Ketika memilih tipe penilaian agregat, anda harus juga memilih untuk menggunakan skala atau menentukan nilai maksimum.';
