@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['accessrestrictions'] = 'Pembatasan akses';
+$string['accessrestrictions'] = 'Batasi akses';
 $string['addrestriction'] = 'Tambahkan pembatasan...';
 $string['and'] = 'dan';
 $string['condition_group'] = 'Kumpulan pembatasan';
@@ -51,7 +51,7 @@ $string['list_root_and_hidden'] = 'Tidak tersedia (disembunyikan), kecuali:';
 $string['list_root_or'] = 'Tidak tersedia, kecuali apapun dari:';
 $string['list_root_or_hidden'] = 'Tidak tersedia (disembunyikan), kecuali apapun dari:';
 $string['listheader_multi_after'] = 'berikut ini';
-$string['listheader_multi_and'] = 'semua';
+$string['listheader_multi_and'] = 'Semua';
 $string['listheader_multi_before'] = 'cocok';
 $string['listheader_multi_or'] = 'apapun';
 $string['listheader_sign_before'] = 'Siswa';
@@ -62,7 +62,7 @@ $string['manageplugins'] = 'Kelola pembatasan';
 $string['missingplugin'] = 'Pengaya pembatasan hilang';
 $string['or'] = 'atau';
 $string['privacy:metadata'] = 'Subsistem pembatasan akses tidak menyimpan data pribadi.';
-$string['restrictaccess'] = 'Pembatasan akses';
+$string['restrictaccess'] = 'Batasi akses';
 $string['restrictbygroup'] = 'Tambahkan pembatasan akses grup/pengelompokan';
 $string['setheading'] = '{$a->number} Kumpulan dari {$a->count} pembatasan';
 $string['show_verb'] = 'Klik untuk ditampilkan pudar';
