@@ -2005,10 +2005,10 @@ $string['switchdevicerecommended'] = 'Ganti dengan tema yang direkomendasikan un
 $string['switchrolereturn'] = 'Kembali ke peran normal';
 $string['switchroleto'] = 'Beralih peran menjadi...';
 $string['switchroleto_help'] = 'Pilih peran untuk mendapatkan gagasan tentang bagaimana seseorang dengan peran itu akan melihat kursus ini. Harap perhatikan bahwa tampilan ini mungkin tidak sempurna (<a href="https://docs.moodle.org/en/Switch_roles"> Lihat detail dan alternatif </a>).';
-$string['tag'] = 'Tagar';
+$string['tag'] = 'Tag';
 $string['tagalready'] = 'Tagar ini sudah ada';
 $string['tagmanagement'] = 'Tambahkan/hapus tagar';
-$string['tags'] = 'Tagar';
+$string['tags'] = 'Tag';
 $string['targetrole'] = 'Sasaran';
 $string['teacheronly'] = 'Hanya untuk {$a} saja';
 $string['teacherroles'] = 'peran {$a}';
