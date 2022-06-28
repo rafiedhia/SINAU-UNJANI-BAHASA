@@ -31,7 +31,7 @@ $string['aggregatemax'] = 'Penilaian maksimum';
 $string['aggregatemin'] = 'Penilaian minimum';
 $string['aggregatenone'] = 'Tidak ada penilaian';
 $string['aggregatesum'] = 'Jumlah seluruh penilaian';
-$string['aggregatetype'] = 'Tipe agregat';
+$string['aggregatetype'] = 'Tipe Agregat';
 $string['aggregatetype_help'] = 'Tipe agregat mendefinisikan bagaimana beberapa penilaian dikombinasikan yang kemudian membentuk nilai akhir pada buku nilai.
 
 * Rata-rata penilaian - Menunjukkan rata-rata seluruh penilaian yang ada
