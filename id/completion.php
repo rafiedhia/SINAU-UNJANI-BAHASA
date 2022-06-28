@@ -28,7 +28,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['achievinggrade'] = 'Pencapaian nilai';
 $string['achievingpassinggrade'] = 'Mencapai nilai kelulusan';
 $string['activities'] = 'Aktivitas';
-$string['activitiescompleted'] = 'Penyelesaian aktivitas';
+$string['activitiescompleted'] = 'Penyelesaian Aktivitas';
 $string['activitiescompletednote'] = 'Catatan: Penyelesaian aktivitas harus disetel untuk aktivitas yang terlihat pada daftar di atas.';
 $string['activitieslabel'] = 'Aktivitas / Sumber';
 $string['activityaggregation'] = 'Syarat yang dibutuhkan';

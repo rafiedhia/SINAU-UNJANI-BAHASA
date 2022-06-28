@@ -33,6 +33,6 @@ $string['orderincourse'] = 'Urutkan di kursus';
 $string['page-report-progress-index'] = 'Laporan penyelesaian aktivitas';
 $string['page-report-progress-user'] = 'Laporan penyelesaian aktivitas pengguna';
 $string['page-report-progress-x'] = 'Setiap laporan penyelesaian aktivitas';
-$string['pluginname'] = 'Penyelesaian aktivitas';
+$string['pluginname'] = 'Penyelesaian Aktivitas';
 $string['privacy:metadata'] = 'Laporan penyelesaian aktivitas hanya menampilkan data yang disimpan di lokasi lain.';
 $string['progress:view'] = 'Lihat laporan penyelesaian aktivitas';

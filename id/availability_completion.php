@@ -51,4 +51,4 @@ $string['requires_previous_complete_pass'] = '<strong> Aktivitas sebelumnya yang
 $string['requires_previous_incomplete'] = '<strong> Aktivitas sebelumnya yang sudah selesai </strong> masih belum selesai';
 $string['requires_previous_not_complete_fail'] = '<strong> Aktivitas sebelumnya yang telah selesai </strong> tidak selesai dan gagal';
 $string['requires_previous_not_complete_pass'] = '<strong> Aktivitas sebelumnya yang telah selesai </strong> belum selesai dan lulus';
-$string['title'] = 'Penyelesaian aktivitas';
+$string['title'] = 'Penyelesaian Aktivitas';
