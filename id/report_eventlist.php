@@ -61,4 +61,4 @@ $string['since'] = 'Sejak';
 $string['teaching'] = 'Mengajar';
 $string['typedeclaration'] = 'Parameter acara lainya';
 $string['update'] = 'Perbarui';
-$string['yes'] = 'ya';
+$string['yes'] = 'Ya';
