@@ -327,7 +327,7 @@ $string['externalbadges'] = 'Lencana saya dari situs web lain';
 $string['externalbadges_help'] = 'Area ini menampilkan lencana dari ransel eksternal Anda.';
 $string['externalbadgesp'] = 'Lencana dari situs web lain:';
 $string['externalconnectto'] = 'Untuk menampilkan lencana eksternal Anda perlu <a href="{$a}"> menghubungkan ke ransel </a>.';
-$string['fixed'] = 'Tanggal tetap';
+$string['fixed'] = 'Tanggal Tetap';
 $string['hidden'] = 'Tersembunyi';
 $string['hiddenbadge'] = 'Sayangnya, pemilik lencana belum menyediakan informasi ini.';
 $string['hostedurl'] = 'URL eksternal';
