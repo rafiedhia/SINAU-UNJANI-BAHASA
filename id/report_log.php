@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['allsources'] = 'Semua sumber';
+$string['allsources'] = 'Semua Sumber';
 $string['cli'] = 'CLI';
 $string['eventcomponent'] = 'Komponen';
 $string['eventcontext'] = 'Konteks acara';
