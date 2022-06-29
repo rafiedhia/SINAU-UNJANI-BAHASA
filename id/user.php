@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['addcondition'] = 'Tambah kondisi';
+$string['addcondition'] = 'Tambah ketentuan';
 $string['adverbfor_and'] = 'dan';
 $string['adverbfor_andnot'] = 'dan';
 $string['adverbfor_or'] = 'atau';
