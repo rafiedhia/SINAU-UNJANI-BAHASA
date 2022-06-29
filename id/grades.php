@@ -316,7 +316,7 @@ $string['gradeletteroverridden'] = 'Nilai huruf pada setelan bawaan sekarang ter
 $string['gradeletters'] = 'Huruf Nilai';
 $string['gradelocked'] = 'Nilai dikunci';
 $string['gradelong'] = '{$a->grade} / {$a->max}';
-$string['grademax'] = 'Nilai maksimum';
+$string['grademax'] = 'Nilai Maksimum';
 $string['grademax_help'] = 'Setelan ini menentukan nilai maksimum ketika menggunakan tipe nilai bilangan. Nilai maksimum untuk sebuah item nilai berbasis aktivitas diatur pada halaman setelan aktivitas.';
 $string['grademin'] = 'Nilai minimum';
 $string['grademin_help'] = 'Setelan ini menentukan nilai minimum ketika menggunakan tipe nilai bilangan.';
@@ -470,7 +470,7 @@ $string['mappings_help'] = 'Pilih item nilai yang cocok untuk mengimpor nilai ke
 $string['mapto'] = 'Petakan ke';
 $string['mapto_help'] = 'Pilih data pengindentifikasi yang sama dengan yang dipilih untuk \'Petakan dari\'.';
 $string['max'] = 'Tertinggi';
-$string['maxgrade'] = 'Nilai maksimum';
+$string['maxgrade'] = 'Nilai Maksimum';
 $string['meanall'] = 'Semua nilai';
 $string['meangraded'] = 'Nilai tidak kosong';
 $string['meanselection'] = 'Nilai dipilih untuk rata-rata kolom';
@@ -507,7 +507,7 @@ Contohnya, apabila opsi ini diatur sebagai \'Ya\', mengubah nilai maksimum sebua
 $string['modgradedonotmodify'] = 'Jangan mengubah nilai yang ada.';
 $string['modgradeerrorbadpoint'] = 'Bilangan nilai tidak benar. Harus bilangan bulat antara 1 dan {$a}';
 $string['modgradeerrorbadscale'] = 'Skala yang salah dipilih. Pastikan anda memilih skala dari pilihan di bawah ini.';
-$string['modgrademaxgrade'] = 'Nilai maksimum';
+$string['modgrademaxgrade'] = 'Nilai Maksimum';
 $string['modgraderescalegrades'] = 'Skala ulang nilai yang ada';
 $string['modgraderescalegrades_help'] = 'Apabila diatur sebagai \'Ya\', seluruh nilai yang ada akan diskala ulang, sehingga persentase nilai akan tetap sama.
 
