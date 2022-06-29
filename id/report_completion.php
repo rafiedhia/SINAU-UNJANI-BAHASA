@@ -36,5 +36,5 @@ $string['nocapability'] = 'Tidak dapat mengakses laporan penyelesaian pengguna';
 $string['page-report-completion-index'] = 'Laporan penyelesaian kursus';
 $string['page-report-completion-user'] = 'Laporan penyelesaian kursus oleh pengguna';
 $string['page-report-completion-x'] = 'Setiap slporan penyelesaian';
-$string['pluginname'] = 'Penyelesaian kursus';
+$string['pluginname'] = 'Penyelesaian Mata Kuliah';
 $string['privacy:metadata'] = 'Laporan penyelesaian kursus hanya menampilkan data yang disimpan di lokasi lain.';

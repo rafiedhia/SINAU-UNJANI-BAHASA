@@ -105,7 +105,7 @@ $string['norecentaccessesinfomessage'] = 'Hai {$a->userfirstname},
 $string['noteachinginfomessage'] = 'Halo {$a->userfirstname},
 <p>Kursus dengan tanggal mulai minggu depan telah teridentifikasi sebagai tak memiliki pendaftaran pengajar atau siswa. </p>';
 $string['participantsnavigation'] = 'Navigasi peserta tersier.';
-$string['privacy:completionpath'] = 'Penyelesaian kursus';
+$string['privacy:completionpath'] = 'Penyelesaian Mata Kuliah';
 $string['privacy:favouritespath'] = 'Informasi kursus yang bertanda bintang';
 $string['privacy:metadata:activityfavouritessummary'] = 'Sistem kursus berisi informasi tentang item mana dari pemilih aktivitas yang telah ditandai/dibintangi oleh pengguna.';
 $string['privacy:metadata:completionsummary'] = 'Kursus berisi informasi penyelesaian kursus pengguna.';
