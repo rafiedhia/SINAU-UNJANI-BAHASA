@@ -1927,7 +1927,7 @@ $string['sourcerole'] = 'Peran sumber';
 $string['specifyname'] = 'Anda harus sebutkan nama';
 $string['standard'] = 'Standar';
 $string['starpending'] = '([*] = Izin menunda kursus)';
-$string['startdate'] = 'Tanggal mulai kursus';
+$string['startdate'] = 'Tanggal Mulai Mata Kuliah';
 $string['startdate_help'] = 'Setelan ini menentukan awal minggu pertama untuk kursus dalam format mingguan. Ini juga menentukan tanggal paling awal untuk aktivitas-aktivitas log yang tersedia. Jika kursus diatur ulang dan tanggal mulai kursus berubah, semua tanggal dalam kursus akan dipindahkan sehubungan dengan tanggal mulai yang baru.';
 $string['startingfrom'] = 'Dimulai sejak';
 $string['startsignup'] = 'Buat akun baru';
