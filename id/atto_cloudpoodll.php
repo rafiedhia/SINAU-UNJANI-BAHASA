@@ -106,6 +106,6 @@ $string['ms-my'] = 'Melayu';
 $string['mumbai'] = 'Mumbai, India';
 $string['next'] = 'Lanjut';
 $string['nl-nl'] = 'Belanda';
-$string['no'] = 'tidak';
+$string['no'] = 'Tidak';
 $string['noapisecret'] = 'Tidak ada rahasia API yang dimasukkan. Cloud Poodll untuk Atto tidak akan bekerja dengan benar.';
 $string['nofieldsheader'] = 'Memasukkan :';

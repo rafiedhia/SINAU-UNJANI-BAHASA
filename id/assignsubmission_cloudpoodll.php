@@ -101,7 +101,7 @@ $string['london'] = 'London, Inggris Raya';
 $string['ms-my'] = 'Melayu';
 $string['mumbai'] = 'Mumbai, India';
 $string['nl-nl'] = 'Belanda';
-$string['no'] = 'tidak';
+$string['no'] = 'Tidak';
 $string['noapisecret'] = 'Tidak ada rahasia API yang dimasukkan. Plugin ini tidak akan bekerja dengan benar.';
 $string['noapiuser'] = 'Tidak ada pengguna API yang masuk. Plugin ini tidak akan bekerja dengan benar.';
 $string['nocredentials'] = 'Pengguna dan rahasia API tidak dimasukkan. Harap masukkan di <a href="{$a}"> halaman setelan. </a> Anda bisa mendapatkannya dari <a href="https://poodll.com/member"> Poodll.com. </ a>';
