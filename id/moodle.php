@@ -1843,7 +1843,7 @@ $string['setpasswordinstructions'] = 'Masukkan kata sandi baru, kemudian simpan 
 $string['settings'] = 'Setelan';
 $string['shortname'] = 'Nama singkat';
 $string['shortnamecollisionwarning'] = '[*] = Nama singkat ini sudah digunakan oleh kursus sebelumnya dan akan diganti setelah disetujui';
-$string['shortnamecourse'] = 'Nama singkat kursus';
+$string['shortnamecourse'] = 'Nama Singkat Mata Kuliah';
 $string['shortnamecourse_help'] = 'Nama singkat kursus ditampilkan pada navigasi dan digunakan pada baris subjek pesan email kursus.';
 $string['shortnametaken'] = 'Nama singkat telah digunakan untuk kursus yang lain ({$a})';
 $string['shortnameuser'] = 'Nama singkat pengguna';
