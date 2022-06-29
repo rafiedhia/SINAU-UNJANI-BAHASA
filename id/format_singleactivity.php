@@ -35,4 +35,4 @@ $string['orphanedwarning'] = 'Aktivitas ini tidak dapat dijangkau oleh pengguna!
 $string['pluginname'] = 'Format aktivitas tunggal';
 $string['privacy:metadata'] = 'Pengaya format aktivitas tunggal tidak menyimpan data pribadi apa pun.';
 $string['sectionname'] = 'Nama bagian';
-$string['warningchangeformat'] = 'Saat mengubah format kursus yang ada menjadi "Aktivitas tunggal", pastikan Anda menghapus semua aktivitas tambahan dari kursus termasuk "Pengumuman". Perhatikan bahwa struktur bagian dapat dimodifikasi.';
+$string['warningchangeformat'] = 'Saat mengubah format mata kuliah saat ini menjadi "Aktivitas tunggal", pastikan untuk menghapus seluruh aktivitas tambahan pada mata kuliah termasuk "Pengumuman". Struktur bagian mungkin termodifikasi.';
