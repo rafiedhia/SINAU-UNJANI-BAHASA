@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['acceptanceacknowledgement'] = 'Saya mengakui bahwa saya telah menerima permintaan untuk memberikan persetujuan atas nama pengguna di atas.';
-$string['acceptancenote'] = 'Catatan';
+$string['acceptancenote'] = 'Log';
 $string['acceptancepolicies'] = 'Kebijakan';
 $string['acceptancessavedsucessfully'] = 'Perjanjian telah berhasil disimpan.';
 $string['acceptancestatusaccepted'] = 'Disetujui';
