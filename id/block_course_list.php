@@ -33,5 +33,5 @@ $string['course_list:addinstance'] = 'Tambahkan blok kursus';
 $string['course_list:myaddinstance'] = 'Tambahkan blok kursus pada Dasbor';
 $string['hideallcourseslink'] = 'Sembunyikan semua tautan \'Semua kursus\'';
 $string['owncourses'] = 'Pengguna admin melihat kursusnya sendiri';
-$string['pluginname'] = 'Kursus';
+$string['pluginname'] = 'Mata Kuliah';
 $string['privacy:metadata'] = 'Blok kursus hanya menampilkan data tentang kursus dan tidak menyimpan data itu sendiri.';

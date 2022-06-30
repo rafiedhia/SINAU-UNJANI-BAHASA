@@ -25,6 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['courses'] = 'Kursus';
+$string['courses'] = 'Mata Kuliah';
 $string['setmaxcoursesdesc'] = 'Tetapkan jumlah maksimum pengguna bawaan kursus untuk ditampilkan sekaligus di Blok Ringkasan Kursus.';
 $string['setmaxcoursesmaxdesc'] = 'Tetapkan jumlah maksimum kursus yang dapat dipilih pengguna untuk ditampilkan di Blok Ringkasan Kursus.';
