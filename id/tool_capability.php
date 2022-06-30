@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['capabilitylabel'] = 'Kapabilitas:';
-$string['capabilityreport'] = 'Ikhtisar kemampuan';
+$string['capabilityreport'] = 'Ikhtisar Kepabilitas';
 $string['changeoverrides'] = 'Ubah penggantian dalam konteks ini';
 $string['changeroles'] = 'Ubah definisi peran';
 $string['eventreportviewed'] = 'Laporan dilihat';
@@ -36,7 +36,7 @@ $string['getreport'] = 'Dapatkan ikhtisar';
 $string['intro'] = 'Laporan ini menunjukkan, untuk kapabilitas tertentu, izin apa yang dimiliki kapabilitas tersebut dalam definisi setiap peran (atau pilihan peran), dan di mana pun di situs tempat kapabilitas tersebut diganti.';
 $string['nodifferences'] = 'Tidak ada perbedaan yang dapat ditampilkan antara peran yang dipilih dalam konteks ini';
 $string['onlydiff'] = 'Tunjukkan perbedaan saja';
-$string['pluginname'] = 'Ikhtisar kemampuan';
+$string['pluginname'] = 'Ikhtisar Kepabilitas';
 $string['privacy:metadata'] = 'Pengaya Ikhtisar kemampuan tidak menyimpan data pribadi apa pun.';
 $string['reportforcapability'] = 'Laporkan kemampuan \'{$a}\'';
 $string['reportsettings'] = 'Setelan laporan';
