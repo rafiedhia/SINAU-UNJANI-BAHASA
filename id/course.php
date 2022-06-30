@@ -86,7 +86,7 @@ $string['downloadcontent_help'] = 'Haruskah aktivitas atau sumber ini disertakan
 
 Setelan tidak berpengaruh pada unduhan konten aplikasi seluler untuk penggunaan luring.';
 $string['downloadcourseconfirmation'] = 'Anda akan mengunduh berkas zip dari konten kursus (termasuk materi yang tidak bisa diunduh dan semua berkas berukuran lebih dari {$a}).';
-$string['downloadcoursecontent'] = 'Unduh konten kursus';
+$string['downloadcoursecontent'] = 'Unduh konten mata kuliah';
 $string['downloadcoursecontent_help'] = 'Setelan ini menentukan apakah konten kursus dapat diunduh oleh pengguna dengan kemampuan mengunduh konten kursus (setelan bawaan untuk pengguna dengan peran siswa atau pengajar).';
 $string['enabledownloadcoursecontent'] = 'Aktifkan unduh konten kursus';
 $string['errorendbeforestart'] = 'Tanggal akhir ({$a}) tertulis sebelum tanggal mulai kursus.';
