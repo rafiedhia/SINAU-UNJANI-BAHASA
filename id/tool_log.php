@@ -28,7 +28,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['actlogshdr'] = 'Penyimpanan log yang tersedia';
 $string['configlogplugins'] = 'Harap aktifkan semua pengaya yang diperlukan dan atur dalam urutan yang sesuai.';
 $string['exportlog'] = 'Hubungi Petugas Privasi';
-$string['exportlogdetail'] = 'Termasuk log yang terkait dengan pengguna yang melakukan ekspor.';
+$string['exportlogdetail'] = 'Hubungi Petugas Privasi';
 $string['logging'] = 'Mencatat log';
 $string['managelogging'] = 'Kelola penyimpanan log';
 $string['pluginname'] = 'Manajer penyimpanan log';
