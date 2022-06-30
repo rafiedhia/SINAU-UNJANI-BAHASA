@@ -1098,7 +1098,7 @@ $string['registration_help'] = 'Dengan mendaftar:
 * Anda akan menerima peringatan keamanan
 * Anda dapat mengaktifkan pemberitahuan push aplikasi seluler dari situs Anda
 * Anda berkontribusi pada statistik Moodle kami dari komunitas di seluruh dunia';
-$string['registrationwarning'] = 'Situs Anda belum terdaftar.';
+$string['registrationwarning'] = 'Situs Anda belum terdaftar';
 $string['registrationwarningcontactadmin'] = 'Situs Anda belum terdaftar. Harap beri tahu administrator Anda.';
 $string['releasenoteslink'] = 'Untuk informasi tentang versi Moodle ini, silakan lihat <a target="_blank" href="{$a}">Catatan Rilis</a> daring';
 $string['rememberuserlicensepref'] = 'Ingat preferensi lisensi pengguna';
