@@ -52,6 +52,6 @@ $string['issue'] = 'Isu';
 $string['morehelp'] = 'lebih banyak bantuan';
 $string['performance:view'] = 'Laporan ini mencantumkan masalah yang dapat memengaruhi kinerja situs {$a}';
 $string['performancereportdesc'] = 'Laporan ini mencantumkan masalah yang dapat memengaruhi kinerja situs {$a}';
-$string['pluginname'] = 'Ikhtisar kinerja';
+$string['pluginname'] = 'Ikhtisar Kinerja';
 $string['privacy:metadata'] = 'Pengaya Ikhtisar kinerja tidak menyimpan data pribadi apa pun.';
 $string['value'] = 'Nilai';
