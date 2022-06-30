@@ -29,5 +29,5 @@ $string['confirmdelete'] = 'Anda yakin ingin menghapus semua penetapan peran yan
 $string['contextlevel'] = 'Tingkat konteks';
 $string['count'] = 'Menghitung';
 $string['noprolbems'] = 'Tidak ditemukan penetapan peran yang tidak didukung.';
-$string['pluginname'] = 'Penetapan peran tidak didukung';
+$string['pluginname'] = 'Penugasan Peran yang Tidak Didukung';
 $string['privacy:metadata'] = 'Pengaya Penetapan peran yang tidak didukung tidak menyimpan data pribadi apa pun.';
