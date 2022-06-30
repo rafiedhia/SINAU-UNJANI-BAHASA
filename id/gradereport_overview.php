@@ -28,5 +28,5 @@ defined('MOODLE_INTERNAL') || die();
 $string['eventgradereportviewed'] = 'Melihat laporan ikhtisar nilai';
 $string['gradesoverview'] = 'Ikhtisar nilai';
 $string['overview:view'] = 'Lihat laporan ikhtisar';
-$string['pluginname'] = 'Laporan ikhtisar';
+$string['pluginname'] = 'Laporan Ikhtisar';
 $string['privacy:metadata'] = 'Laporan Ikhtisar nilai hanya menampilkan data yang disimpan di lokasi lain.';
