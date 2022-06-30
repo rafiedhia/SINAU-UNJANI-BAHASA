@@ -364,7 +364,7 @@ $string['configshowsiteparticipantslist'] = 'Semua siswa situs dan pengajar situ
 $string['configsitedefaultlicense'] = 'Lisensi situs bawaan';
 $string['configsitedefaultlicensehelp'] = 'Lisensi default pada publikasi konten di situs ini.';
 $string['configsitemailcharset'] = 'Pengaturan ini menentukan rangkaian karakter default untuk semua email yang dikirim dari situs.';
-$string['configsitemaxcategorydepth'] = 'Kedalaman kategori maksimum';
+$string['configsitemaxcategorydepth'] = 'Kedalaman Kategori Maksimum';
 $string['configsitemaxcategorydepthhelp'] = 'Ini menentukan kedalaman maksimum kategori anak yang diperluas saat menampilkan kategori atau daftar kombo. Kategori tingkat yang lebih dalam akan muncul sebagai tautan dan pengguna dapat memperluasnya dengan permintaan AJAX.';
 $string['configslasharguments'] = '\'Slash arguments\' (menggunakan <em>PATH_INFO</em>) dibutuhkan untuk paket SCORM dan berkas dari berbagai sumber agar dapat ditampilkan secara benar. Jika web server Anda tidak mendukung \'Slash arguments\' dan Anda tidak bisa mengaturnya, pengaturan ini bisa dimatikan, dan nanti hasilnya tidak akan muncul.
 <br />Catatan: Penggunaan \'slash arguments\' akan dibutuhkan di versi Moodle yang akan datang.';
