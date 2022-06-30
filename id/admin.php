@@ -670,7 +670,7 @@ $string['gradebook'] = 'Buku Nilai';
 $string['gradebookroles'] = 'Aturan penilaian';
 $string['gradeexport'] = 'Metode ekspor penilaian utama';
 $string['gravatardefaulturl'] = 'Alamat URL foto Gravatar';
-$string['gravatardefaulturl_help'] = 'Gravatar memerlukan gambar default untuk ditampilkan jika tidak dapat menemukan gambar untuk pengguna tertentu. Berikan URL lengkap untuk sebuah gambar. Jika Anda membiarkan pengaturan ini kosong, Moodle akan mencoba menggunakan gambar default yang paling sesuai untuk halaman yang Anda lihat. Perhatikan juga bahwa Gravatar memiliki sejumlah kode yang dapat digunakan untuk <a href="https://en.gravatar.com/site/implement/images/#default-image"> menghasilkan gambar default </a>.';
+$string['gravatardefaulturl_help'] = 'Gravatar memerlukan gambar bawaan untuk ditampilkan jika tidak dapat menemukan gambar untuk pengguna tertentu. Berikan URL lengkap untuk sebuah gambar. Jika Anda membiarkan pengaturan ini kosong, Moodle akan menggunakan gambar bawaan yang paling sesuai untuk halaman yang Anda lihat. Perhatikan juga bahwa Gravatar memiliki sejumlah kode yang dapat digunakan untuk <a href="https://en.gravatar.com/site/implement/images/#default-image"> menghasilkan gambar bawaan </a>.';
 $string['groupenrolmentkeypolicy'] = 'Kebijakan kunci pendaftaran grup';
 $string['groupenrolmentkeypolicy_desc'] = 'Jika diaktifkan, kunci pendaftaran grup akan diperiksa terhadap kebijakan kata sandi seperti yang ditentukan dalam pengaturan di atas.';
 $string['guestroleid'] = 'Peran untuk tamu';
