@@ -36,6 +36,6 @@ $string['questioninstances:view'] = 'Lihat laporan model soal';
 $string['reportforallqtypes'] = 'Laporan untuk semua jenis soal';
 $string['reportformissingqtypes'] = 'Laporkan untuk soal jenis yang tidak diketahui';
 $string['reportforqtype'] = 'Laporan untuk jenis soal \'{$a}\'';
-$string['reportsettings'] = 'Setelan laporan';
+$string['reportsettings'] = 'Setelan Laporan';
 $string['totalquestions'] = 'Toal';
 $string['visiblequestions'] = 'Terlihat';

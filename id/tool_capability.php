@@ -39,5 +39,5 @@ $string['onlydiff'] = 'Tunjukkan perbedaan saja';
 $string['pluginname'] = 'Ikhtisar Kepabilitas';
 $string['privacy:metadata'] = 'Pengaya Ikhtisar kemampuan tidak menyimpan data pribadi apa pun.';
 $string['reportforcapability'] = 'Laporkan kemampuan \'{$a}\'';
-$string['reportsettings'] = 'Setelan laporan';
+$string['reportsettings'] = 'Setelan Laporan';
 $string['roleslabel'] = 'Peran:';
