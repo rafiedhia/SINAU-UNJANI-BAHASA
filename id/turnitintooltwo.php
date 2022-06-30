@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['defaultinserterror'] = 'Ada kesalahan ketika mencoba memasukkan nilai setelan bawaan ke dalam basis data';
-$string['defaults'] = 'Setelan bawaan';
+$string['defaults'] = 'Setelan Bawaan';
 $string['defaults_desc'] = 'Setelan berikut ini akan menjadi setelan bawaan yang digunakan untuk contoh baru Penugasan Turnitin Moodle 2';
 $string['defaultupdateerror'] = 'Ada kesalahan ketika mencoba memperbarui nilai setelan bawaan di basis data';
 $string['turnitindefaults'] = 'Mengubah setelan bawaan plugin Turnitin plagiarism';

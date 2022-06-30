@@ -25,4 +25,4 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['defaults'] = 'Setelan bawaan';
+$string['defaults'] = 'Setelan Bawaan';
