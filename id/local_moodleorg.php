@@ -224,7 +224,7 @@ $string['manageads'] = 'Kelola iklan mitra
 $string['managedonations'] = 'Kelola donasi';
 $string['moodleorg:manageads'] = 'Kelola iklan mitra';
 $string['moodleorg:managedonations'] = 'Kelola pendaftaran donasi';
-$string['moodlepartner_corporate'] = 'Pelatihan perusahaan
+$string['moodlepartner_corporate'] = 'Pelatihan Perusahaan
 ';
 $string['moodlepartner_other'] = 'Sektor lainnya';
 $string['moodlepartner_school'] = 'Sekolah';
