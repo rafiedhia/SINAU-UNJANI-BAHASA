@@ -57,7 +57,7 @@ $string['filtersettings_help'] = 'Halaman ini memungkinkan Anda mengaktifkan ata
 Beberapa filter juga memungkinkan Anda mengatur setelan lokal, dalam hal ini akan ada tautan setelan di sebelah namanya.';
 $string['filtersettingsforin'] = 'Setelan filter untuk {$a->filter} di {$a->context}';
 $string['filtersettingsin'] = 'Filter setelan di {$a}';
-$string['firstaccess'] = 'Akses pertama';
+$string['firstaccess'] = 'Akses Pertama';
 $string['globalrolelabel'] = '{$a->label} adalah {$a->value}';
 $string['isactive'] = 'Aktif?';
 $string['isafter'] = 'setelah';
