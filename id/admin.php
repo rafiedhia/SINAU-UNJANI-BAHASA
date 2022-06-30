@@ -41,7 +41,7 @@ $string['admincategory'] = 'Kategori: {$a}';
 $string['adminseesall'] = 'Admin dapat melihat semuanya';
 $string['adminseesallevents'] = 'Administrator melihat semua acara';
 $string['adminseesownevents'] = 'Administrator sama seperti pengguna lain';
-$string['advancedfeatures'] = 'Fitur lanjutan';
+$string['advancedfeatures'] = 'Fitur Lanjutan';
 $string['agedigitalconsentverification'] = 'Verifikasi izin usia digital';
 $string['agedigitalconsentverification_desc'] = 'Mengaktifkan verifikasi persetujuan masa digital sebelum menampilkan halaman pendaftaran untuk pengguna pendaftaran mandiri. Hal ini untuk melindungi situs Anda dari mendaftar tanpa ijin orang tua/wali. <a target="_blank" href="{$a}">Dukungan kontak</a> rincian diberikan kepada anak di bawah umur untuk bantuan lebih lanjut.';
 $string['ageofdigitalconsentmap'] = 'Persetujuan usia digital';
