@@ -242,7 +242,7 @@ $siteurl = $CFG->wwwroot;
     $string['region-maintopwidgets'] = 'Main (Top)';
     $string['region-mainfwidgets'] = 'Main (Bottom)';
 
-    $string['blockordersettings'] = 'Front Page Builder';
+    $string['blockordersettings'] = 'Pembuat Beranda';
 
     $string['loginpagesettings'] = 'Login Page';
     $string['showlbg'] = '✓ Show Background Image';
