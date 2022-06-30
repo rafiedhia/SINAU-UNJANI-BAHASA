@@ -27,7 +27,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['activitychooseractivefooter'] = 'Footer pemilih aktivitas';
 $string['activitychooseractivefooter_desc'] = 'Pemilih aktivitas dapat mendukung plugin yang menambahkan item ke footer.';
-$string['activitychoosercategory'] = 'Pemilih aktivitas';
+$string['activitychoosercategory'] = 'Pemilih Aktivitas';
 $string['activitychooserhidefooter'] = 'Tanpa footer';
 $string['activitychooserrecommendations'] = 'Aktivitas yang direkomendasikan';
 $string['activitychoosersettings'] = 'Setting pemilih aktivitas';
