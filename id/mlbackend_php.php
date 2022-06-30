@@ -30,6 +30,6 @@ $string['errorcantloadmodel'] = 'File model {$a} tidak ada. Model harus dilatih 
 $string['errorlowscore'] = 'Keakuratan prediksi model yang dievaluasi tidak terlalu tinggi, sehingga beberapa prediksi mungkin tidak akurat. Skor model = {$a->score}, skor minimum = {$a->minscore}';
 $string['errornotenoughdata'] = 'Tidak ada cukup data untuk mengevaluasi model ini menggunakan interval analisis yang disediakan.';
 $string['errornotenoughdatadev'] = 'Hasil evaluasi terlalu bervariasi. Disarankan agar lebih banyak data dikumpulkan untuk memastikan model tersebut valid. Standar deviasi hasil evaluasi = {$a->deviation}, standar deviasi maksimum yang direkomendasikan = {{$a->accepteddeviation}';
-$string['errorphp7required'] = 'Bagian belakang pembelajaran mesin PHP membutuhkan PHP 7';
-$string['pluginname'] = 'Bagian belakang pembelajaran mesin PHP';
+$string['errorphp7required'] = 'PHP Machine Learning Backend membutuhkan PHP 7';
+$string['pluginname'] = 'PHP Machine Learning Backend';
 $string['privacy:metadata'] = 'Pengaya backend pembelajaran mesin PHP tidak menyimpan data pribadi apa pun.';
