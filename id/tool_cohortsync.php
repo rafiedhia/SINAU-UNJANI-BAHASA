@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['cohortidentifier'] = 'ID kohor';
+$string['cohortidentifier'] = 'ID Kelompok dengan Kategori Tertentu';
 $string['cohortidentifierdesc'] = 'Parameter ini digunakan untuk mengidentifikasi kohor untuk memasukkan anggota.';
 $string['cohortmembersyncheader'] = 'Konfigurasi anggota kohor';
 $string['cohortscreated'] = '"{$a}" kohor telah dibuat';
