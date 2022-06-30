@@ -28,7 +28,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['complete'] = 'Lengkap';
 $string['count'] = 'Jumlah item konten yang disematkan';
 $string['disclaimer'] = 'Saya mengerti risiko dari operasi ini';
-$string['doclink'] = 'Alat konversi HTTPS';
+$string['doclink'] = 'Alat Konversi HTTPS';
 $string['doit'] = 'Lakukan konversi';
 $string['domain'] = 'Domain bermasalah';
 $string['domainexplain'] = 'Saat situs dipindahkan dari HTTP ke HTTPS, semua konten HTTP yang disematkan akan berhenti berfungsi. Alat ini memungkinkan Anda untuk secara otomatis mengonversi konten HTTP ke HTTPS.
@@ -39,7 +39,7 @@ $string['httpwarning'] = 'Model ini masih berjalan di HTTP. Anda masih dapat men
 $string['notimplemented'] = 'Maaf, fitur ini tidak diterapkan di pengandar basis data Anda.';
 $string['oktoprocede'] = 'Pemindaian tidak menemukan masalah dengan konten Anda. Anda dapat melanjutkan untuk meningkatkan konten HTTP apa pun untuk menggunakan HTTPS.';
 $string['pageheader'] = 'Tingkatkan URL konten yang dihosting secara eksternal ke HTTPS';
-$string['pluginname'] = 'Alat konversi HTTPS';
+$string['pluginname'] = 'Alat Konversi HTTPS';
 $string['privacy:metadata'] = 'Pengaya alat konversi HTTPS tidak menyimpan data pribadi apa pun.';
 $string['replacing'] = 'Mengganti konten HTTP dengan HTTPS...';
 $string['searching'] = 'Mencari {$a}';
