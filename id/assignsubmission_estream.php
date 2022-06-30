@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['currentsubmission'] = 'Pengiriman Saat Ini';
-$string['default'] = 'Diaktifkan secara default';
+$string['default'] = 'Diaktifkan secara bawaan';
 $string['default_help'] = 'Jika disetel, metode pengiriman ini akan diaktifkan secara default untuk semua tugas yang baru dibuat.';
 $string['enabled'] = 'Planet eStream Submissions diaktifkan';
 $string['enabled_help'] = 'Jika diaktifkan, siswa dapat mengirimkan file video / audio yang diunggah untuk penilaian melalui Planet eStream saat menggunakan plugin editor teks.';

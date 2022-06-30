@@ -28,7 +28,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['algebra'] = 'Aljabar';
 $string['allowgeogebrasubmissions'] = 'Diaktifkan';
 $string['cas'] = 'CAS';
-$string['default'] = 'Diaktifkan secara default';
+$string['default'] = 'Diaktifkan secara bawaan';
 $string['default_help'] = 'Jika disetel, metode pengiriman ini akan diaktifkan secara default untuk semua tugas baru.';
 $string['dragndrop'] = 'Seret dan lepas file GeoGebra di mana saja di bagian Applet GeoGebra';
 $string['enabled'] = 'GeoGebra';

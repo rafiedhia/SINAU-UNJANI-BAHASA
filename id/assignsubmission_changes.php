@@ -27,7 +27,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['admin_diff'] = 'Aktifkan Deteksi Perbedaan secara default';
 $string['allow_changelog'] = 'Izinkan deteksi perubahan kiriman siswa';
-$string['default'] = 'Aktifkan Catatan perubahan (Changelog) secara default';
+$string['default'] = 'Aktifkan catatan perubahan (Changelog) secara bawaan';
 $string['default_help'] = 'Jika disetel, catatan perubahan akan diaktifkan secara default untuk semua tugas baru.';
 $string['diff'] = 'Deteksi otomatis perbedaan';
 $string['diff_help'] = 'Deteksi perbedaan kiriman siswa';

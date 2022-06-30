@@ -28,7 +28,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['assign/submission:caneditreviewgrade'] = 'Dapat menghapus komentar nilai ulasan.';
 $string['assign/submission:canreviewgrade'] = 'Dapat meninjau nilai.';
 $string['commentlinktext'] = 'Ulasan nilai';
-$string['default'] = 'Diaktifkan secara default';
+$string['default'] = 'Diaktifkan secara bawaan';
 $string['default_help'] = 'Jika disetel, metode pengiriman ini akan diaktifkan secara default untuk semua tugas baru.';
 $string['enabled'] = 'Tinjauan nilai pengajuan';
 $string['enabled_help'] = 'Jika diaktifkan, siswa dapat meninggalkan penilaian nilai atas kiriman mereka sendiri. Ini dapat digunakan untuk membiarkan siswa memberi tahu penanda tentang file master mana dalam kasus file yang saling terkait, misalnya.';

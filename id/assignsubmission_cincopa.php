@@ -28,7 +28,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['api_token_cincopa'] = 'Cincopa Api Token';
 $string['api_token_cincopa_help'] = 'Api token akun Cincopa';
 $string['cincopa'] = 'Kiriman Cincopa';
-$string['default'] = 'Diaktifkan secara default';
+$string['default'] = 'Diaktifkan secara bawaan';
 $string['default_help'] = 'Jika disetel, metode pengiriman ini akan diaktifkan secara default untuk semua tugas baru.';
 $string['enabled'] = 'Bantuan dengan kiriman Cincopa';
 $string['enabled_help'] = 'Jika diaktifkan, siswa dapat mengunggah dan merekam dari webcam / aplikasi berbagai jenis multimedia termasuk video, gambar, dan audio sebagai kiriman mereka.';

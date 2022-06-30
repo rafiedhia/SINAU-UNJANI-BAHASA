@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['allowhelixassignsubmissions'] = 'Diaktifkan';
-$string['default'] = 'Diaktifkan secara default';
+$string['default'] = 'Diaktifkan secara bawaan';
 $string['default_help'] = 'Jika disetel, metode pengiriman ini akan diaktifkan secara default untuk semua tugas baru.';
 $string['enabled'] = 'Penetapan Video MEDIAL diaktifkan';
 $string['enabled_help'] = 'Jika diaktifkan, siswa dapat mengirimkan video menggunakan sistem pengiriman MEDIAL.';
