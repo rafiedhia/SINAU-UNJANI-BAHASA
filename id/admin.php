@@ -980,7 +980,7 @@ $string['pluginsoverviewsee'] = 'Lihat halaman <a href="{$a->url}">Ikhtisar peng
 $string['policysettings'] = 'Setelan kebijakan';
 $string['privacy:metadata'] = 'Pengaya Administrasi tidak menyimpan data pribadi apa pun.';
 $string['privacyandpolicies'] = 'Privasi dan kebijakan';
-$string['privacysettings'] = 'Konfigurasi privasi';
+$string['privacysettings'] = 'Setelan Privasi';
 $string['profilecategory'] = 'Kategori';
 $string['profilecategoryname'] = 'Nama kategori (harus unik)';
 $string['profilecategorynamenotunique'] = 'Nama kategori telah digunakan';
