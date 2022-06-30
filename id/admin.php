@@ -528,7 +528,7 @@ $string['doesnotfit'] = 'Pengaturan tampilan email';
 $string['doesnotfitdetail'] = 'Pengaturan tampilan untuk email meninggalkan Moodle.';
 $string['download'] = 'Unduh';
 $string['downloadcoursecontentallowed'] = 'Tersedia fitur unduh konten kursus';
-$string['downloadcoursecontentallowed_desc'] = 'Apakah fitur unduh konten kursus tersedia untuk kursus. Jika tersedia, unduhan konten kursus dapat diaktifkan / dinonaktifkan menggunakan setelan "Aktifkan unduhan konten kursus" dalam menu edit kursus (setelan bawaan untuk ini dapat disetel di <a href={$a} target="_blank"> Setelan bawaan kursus </a>).';
+$string['downloadcoursecontentallowed_desc'] = 'Jika fitur unduh konten mata kuliah tersedia, maka fitur unduh konten mata kuliah dapat diaktifkan/dinonaktifkan menggunakan setelan "Aktifkan unduhan konten kursus" dalam menu edit mata kuliah (setelan bawaan untuk ini dapat disetel di setelan bawaaan mata kuliah). </a>).';
 $string['durationunits'] = 'unit durasi';
 $string['edithelpdocs'] = 'Edit dokumen bantuan';
 $string['editlang'] = '<b>Edit</b>';
