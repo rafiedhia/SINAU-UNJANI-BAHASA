@@ -103,7 +103,7 @@ $string['mobileauthentication'] = 'Autentikasi seluler';
 $string['mobilecssurl'] = 'CSS';
 $string['mobilefeatures'] = 'Fitur seluler';
 $string['mobilenotificationsdisabledwarning'] = 'Notifikasi seluler tidak diaktifkan. Mereka harus diaktifkan di setelan notifikasi.';
-$string['mobilesettings'] = 'Setelan seluler';
+$string['mobilesettings'] = 'Setelan Seluler';
 $string['moodleappsportalfeatureswarning'] = 'Harap dicatat bahwa beberapa fitur mungkin dibatasi tergantung pada langganan aplikasi Moodle Anda. Untuk detailnya, kunjungi <a href="{$a}" target="_blank">Portal Aplikasi Moodle</a>.';
 $string['notifications'] = 'Pemberitahuan';
 $string['notificationsactivedevices'] = 'Perangkat aktif';
