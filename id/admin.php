@@ -977,7 +977,7 @@ $string['pluginscheckfailed'] = 'Pemeriksaan dependensi gagal untuk {$a->plugins
 $string['pluginschecktodo'] = 'Anda harus menyelesaikan semua persyaratan pengaya sebelum melanjutkan untuk menginstal versi Moodle ini!';
 $string['pluginsoverview'] = 'Ikhtisar pengaya';
 $string['pluginsoverviewsee'] = 'Lihat halaman <a href="{$a->url}">Ikhtisar pengaya</a> untuk lebih detailnya.';
-$string['policysettings'] = 'Setelan kebijakan';
+$string['policysettings'] = 'Setelan Kebijakan';
 $string['privacy:metadata'] = 'Pengaya Administrasi tidak menyimpan data pribadi apa pun.';
 $string['privacyandpolicies'] = 'Kebijakan Privasi';
 $string['privacysettings'] = 'Setelan Privasi';
