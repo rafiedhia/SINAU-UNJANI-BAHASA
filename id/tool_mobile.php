@@ -94,7 +94,7 @@ $string['mainmenu'] = 'Menu utama';
 $string['managefiletypes'] = 'Kelola jenis berkas';
 $string['minimumversion'] = 'Jika versi aplikasi ditentukan (3.8.0 atau lebih tinggi), pengguna mana pun yang menggunakan versi aplikasi yang lebih lama akan diminta untuk meningkatkan aplikasi mereka sebelum diizinkan mengakses situs.';
 $string['minimumversion_key'] = 'Diperlukan versi aplikasi minimum';
-$string['mobileapp'] = 'Aplikasi seluler';
+$string['mobileapp'] = 'Aplikasi Seluler';
 $string['mobileappconnected'] = 'Aplikasi seluler terhubung';
 $string['mobileappearance'] = 'Tampilan seluler';
 $string['mobileappenabled'] = 'Situs ini mengaktifkan akses aplikasi seluler.<br /><a href="{$a}">Unduh aplikasi seluler</a>.';
