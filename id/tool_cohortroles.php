@@ -33,7 +33,7 @@ $string['cohortroleassignmentnotremoved'] = 'Penetapan peran kohor tidak dihapus
 $string['cohortroleassignmentremoved'] = 'Penetapan peran kohor telah dihapus.';
 $string['cohortroles'] = 'Peran kohor';
 $string['existingcohortroles'] = 'Penetapan peran kohor yang sudah ada';
-$string['managecohortroles'] = 'Tetapkan peran pengguna untuk kohor';
+$string['managecohortroles'] = 'Tetapkan peran pengguna untuk kelompok dengan kategori tertentu';
 $string['noassignableroles'] = 'Saat ini tidak ada peran yang dapat ditetapkan dalam konteks pengguna. <a href="../../roles/manage.php"> Kelola peran </a>';
 $string['nocohortroleassignmentssaved'] = 'Tidak ada penetapan peran kohor yang disimpan.';
 $string['onecohortroleassignmentsaved'] = 'Satu penetapan peran kohor disimpan.';
