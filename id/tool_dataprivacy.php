@@ -332,4 +332,4 @@ $string['user'] = 'Pengguna';
 $string['userlistexplanation'] = 'Pengaya ini memiliki penyedia dasar tetapi juga harus menerapkan penyedia daftar pengguna sebagai dukungan penuh terhadap fungsionalitas privasi.';
 $string['userlistnoncompliant'] = 'Penyedia daftar pengguna tidak ada';
 $string['viewrequest'] = 'Lihat permintaan';
-$string['visible'] = 'Luaskan semua';
+$string['visible'] = 'Tunjukkan semua';
