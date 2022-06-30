@@ -44,7 +44,7 @@ $string['adminseesownevents'] = 'Administrator sama seperti pengguna lain';
 $string['advancedfeatures'] = 'Fitur Lanjutan';
 $string['agedigitalconsentverification'] = 'Verifikasi izin usia digital';
 $string['agedigitalconsentverification_desc'] = 'Aktifkan verifikasi persetujuan usia digital sebelum menampilkan halaman pendaftaran untuk pengguna pendaftaran mandiri. Hal ini untuk melindungi situs Anda dari mendaftar tanpa ijin orang tua/wali. <a target="_blank" href="{$a}">Dukungan kontak</a> rincian diberikan kepada anak di bawah umur untuk bantuan lebih lanjut.';
-$string['ageofdigitalconsentmap'] = 'Persetujuan usia digital';
+$string['ageofdigitalconsentmap'] = 'Persetujuan Usia Digital';
 $string['ageofdigitalconsentmap_desc'] = 'Usia digital izin bawaan, dan usia di negara mana pun yang berbeda dari bawaan, dapat ditentukan di sini. Masukkan setiap usia pada baris baru dengan format: kode negara, usia (dipisahkan oleh koma). Usia bawaan ditunjukkan oleh * sebagai pengganti kode negara. Kode negara ditetapkan dalam ISO 3166-2.';
 $string['allcountrycodes'] = 'Semua kode negara';
 $string['allowattachments'] = 'Izinkan lampiran';
