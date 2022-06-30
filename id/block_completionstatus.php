@@ -32,4 +32,4 @@ $string['firstofsecond'] = '{$a->first} dari {$a->second}';
 $string['pluginname'] = 'Status penyelesaian kursus';
 $string['privacy:metadata'] = 'Blok status penyelesaian kursus hanya menampilkan informasi tentang penyelesaian kursus dan tidak menyimpan datanya sendiri.';
 $string['requirement'] = 'Kebutuhan';
-$string['returntocourse'] = 'Kembali ke kursus';
+$string['returntocourse'] = 'Kembali ke menu';
