@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['conditiontitle'] = 'Ruas profil pengguna';
+$string['conditiontitle'] = 'Ruas Profil Pengguna';
 $string['description'] = 'Kontrol akses berdasarkan ruas dalam profil siswa.';
 $string['error_selectfield'] = 'Anda harus memilih ruas profil.';
 $string['error_setvalue'] = 'Anda harus mengetikkan nilai.';
