@@ -114,7 +114,7 @@ $string['ctcachedescription'] = 'Making sure the content type cache is up to dat
 
 // Upload libraries section.
 $string['uploadlibraries'] = 'Upload Libraries';
-$string['options'] = 'Options';
+$string['options'] = 'Opsi';
 $string['onlyupdate'] = 'Only update existing libraries';
 $string['disablefileextensioncheck'] = 'Disable file extension check';
 $string['disablefileextensioncheckwarning'] = "Warning! Disabling the file extension check may have security implications as it allows for uploading of php files. That in turn could make it possible for attackers to execute malicious code on your site. Please make sure you know exactly what you're uploading.";
