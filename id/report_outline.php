@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['eventactivityreportviewed'] = 'Laporan Aktivitas Dilihat';
-$string['eventoutlinereportviewed'] = 'Melihat garis besar laporan';
+$string['eventoutlinereportviewed'] = 'Ikhtisar Laporan Kegiatan yang  Dilihat';
 $string['neverseen'] = 'Tidak pernah melihat';
 $string['nocapability'] = 'Tidak dapat mengakses laporan garis besar pengguna';
 $string['nologreaderenabled'] = 'Tidak ada pembaca log yang diaktifkan';
