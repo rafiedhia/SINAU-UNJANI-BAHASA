@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['addrule'] = 'Tambahkan aturan baru';
-$string['allevents'] = 'Semua acara';
+$string['allevents'] = 'Semua Agenda';
 $string['allmodules'] = 'Semua model';
 $string['area'] = 'Area';
 $string['areatomonitor'] = 'Area untuk dipantau';

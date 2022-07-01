@@ -629,7 +629,7 @@ $string['editthiscategory'] = 'Edit kategori ini';
 $string['edittitle'] = 'Mengedit judul';
 $string['edittitleinstructions'] = 'Klik tombol Escape untuk membatalkan, tombol Enter ketika selesai.';
 $string['edituser'] = 'Ubah keanggotaan pengguna';
-$string['edulevel'] = 'Semua acara';
+$string['edulevel'] = 'Semua Agenda';
 $string['edulevel_help'] = '* Pengajaran - tindakan yang dilakukan oleh seorang pangajar, mis. memperbarui sebuah sumber
 * Berpartisipasi - tindakan yang dilakukan oleh siswa, mis. mengirim pesan di forum
 * Lainnya - tindakan yang dilakukan oleh pengguna dengan peran selain pengajar atau siswa';
