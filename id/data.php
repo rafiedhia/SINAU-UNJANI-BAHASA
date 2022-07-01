@@ -255,7 +255,7 @@ $string['menu'] = 'Menu';
 $string['menuchoose'] = 'Pilih...';
 $string['missingdata'] = 'Id data atau objek harus diberikan ke ruas class.';
 $string['missingfield'] = 'Kesalahan pemrogram: Anda harus menentukan bidang dan/atau data saat menentukan kelas bidang.';
-$string['modulename'] = 'Basis data';
+$string['modulename'] = 'Basis Data';
 $string['modulename_help'] = 'Modul aktivitas basis data memungkinkan peserta untuk membuat, memelihara, dan mencari kumpulan entri (mis. Catatan). Struktur entri didefinisikan oleh pengajar sebagai sejumlah bidang. Jenis bidang termasuk kotak centang, tombol radio, menu dropdown, area teks, URL, gambar dan file yang diunggah.
 
 Tata letak visual informasi ketika mendaftar, melihat atau mengedit entri basis data dapat dikendalikan oleh templat basis data. Kegiatan basis data dapat dibagi antarkursus sebagai preset dan pengajar juga dapat mengimpor dan mengekspor entri basis data.
@@ -268,7 +268,7 @@ Aktivitas  basis data memiliki banyak kegunaan, seperti
 
 * Kumpulan kolaboratif tautan web, buku, ulasan buku, referensi jurnal, dll.
 * Untuk menampilkan foto, poster, situs web, atau puisi yang dibuat siswa untuk komentar dan ulasan rekan sejawat.';
-$string['modulenameplural'] = 'Basis data';
+$string['modulenameplural'] = 'Basis Data';
 $string['more'] = 'Lebih';
 $string['moreurl'] = 'URL lanjutan';
 $string['movezipfailed'] = 'Tidak dapat pindahkan zip';
@@ -310,7 +310,7 @@ $string['participants'] = 'Peserta';
 $string['picture'] = 'Gambar';
 $string['pleaseaddsome'] = 'Harap buat beberapa di bawah ini atau <a href="{$a}">pilih set yang telah ditentukan</a> untuk memulai.';
 $string['pluginadministration'] = 'Administrasi aktivitas basis data';
-$string['pluginname'] = 'Basis data';
+$string['pluginname'] = 'Basis Data';
 $string['portfolionotfile'] = 'Ekspor ke portofolio daripada berkas (hanya csv dan leap2a)';
 $string['presetinfo'] = 'Menyimpan sebagai preset akan menerbitkan templat ini. Pengguna lain mungkin dapat menggunakannya di basis data mereka.';
 $string['presetnotselected'] = 'Tidak ada preset yang dipilih.';

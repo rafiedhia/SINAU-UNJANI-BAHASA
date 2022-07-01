@@ -69,7 +69,7 @@ $string['auth_dbtable'] = 'Nama dari tabel pada basis data';
 $string['auth_dbtable_key'] = 'Tabel';
 $string['auth_dbtableempty'] = 'Tabel eksternal kosong';
 $string['auth_dbtype'] = 'Jenis basis data (lihat dokumentasi <a href="http://adodb.org/dokuwiki/doku.php" target="_blank">ADOdb - Lapisan Abstraksi Basis Data untuk PHP</a> untuk detailnya).';
-$string['auth_dbtype_key'] = 'Basis data';
+$string['auth_dbtype_key'] = 'Basis Data';
 $string['auth_dbupdateerror'] = 'Galat memperbarui basis data eksternal';
 $string['auth_dbupdateusers'] = 'Perbarui pengguna';
 $string['auth_dbupdateusers_description'] = 'Selain memasukkan pengguna baru, perbarui pengguna yang sudah ada.';

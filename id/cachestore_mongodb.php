@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['database'] = 'Basis data';
+$string['database'] = 'Basis Data';
 $string['database_help'] = 'Nama database yang akan digunakan.';
 $string['extendedmode'] = 'Gunakan kunci yang diperluas';
 $string['extendedmode_help'] = 'Jika diaktifkan, set kunci lengkap akan digunakan saat bekerja dengan pengaya. Ini belum digunakan secara internal tetapi akan memungkinkan Anda untuk dengan mudah mencari dan menyelidiki pengaya MongoDB secara manual jika Anda mau. Mengaktifkan ini akan menambah sedikit \'overhead\' sehingga hanya boleh dilakukan jika Anda memerlukannya.';
